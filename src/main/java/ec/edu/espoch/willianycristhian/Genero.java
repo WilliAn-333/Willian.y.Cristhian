@@ -8,6 +8,9 @@ package ec.edu.espoch.willianycristhian;
  *
  * @author PERSONAL
  */
-public class Genero {
+public enum Genero {
+    FICCION,
+    NO_FICCION,
+    EDUCATIVO       
     
 }
